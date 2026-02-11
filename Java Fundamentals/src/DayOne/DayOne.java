@@ -40,6 +40,11 @@ public class DayOne {
 
 
         //Assignment Operator
+        int num1 = 7;
+        num1++;//increment
+        num1+=2;
+        num1= num1+3;
+        System.out.println(num1);
 
     }
 }
