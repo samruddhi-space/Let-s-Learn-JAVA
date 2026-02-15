@@ -39,6 +39,7 @@ public class operators {
 
 
     //Ternary Operator
+
     }
 
 
